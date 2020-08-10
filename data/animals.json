@@ -1,6 +1,5 @@
 {
-  "animals": [
-    {
+  "animals": [{
       "id": "0",
       "name": "Spindle",
       "species": "bear",
