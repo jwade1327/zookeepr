@@ -1,5 +1,6 @@
 {
-  "animals": [{
+  "animals": [
+    {
       "id": "0",
       "name": "Spindle",
       "species": "bear",
@@ -107,6 +108,15 @@
         "loving"
       ],
       "id": "10"
+    },
+    {
+      "name": "Marty",
+      "species": "emu",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "11"
     }
   ]
 }
