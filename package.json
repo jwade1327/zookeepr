@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/jwade1327/zookeepr#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "jest": "^26.3.0"
   }
 }
